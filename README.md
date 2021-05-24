@@ -13,6 +13,6 @@ Find out more about me here:
 
 ![DocCTF's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocCTF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCTF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCTF&layout=compact)
 
 
