@@ -8,7 +8,7 @@ Find out more about me here:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![C](https://img.shields.io/badge/-plain C-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-plainC-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ![DocCTF's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocCTF)
